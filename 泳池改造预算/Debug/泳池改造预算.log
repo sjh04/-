@@ -1,0 +1,4 @@
+﻿  源.cpp
+C:\Users\sunqf\source\repos\泳池改造预算\泳池改造预算\源.cpp(32,14): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+C:\Users\sunqf\source\repos\泳池改造预算\泳池改造预算\源.cpp(33,19): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  泳池改造预算.vcxproj -> C:\Users\sunqf\source\repos\泳池改造预算\Debug\泳池改造预算.exe
